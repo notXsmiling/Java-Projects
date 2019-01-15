@@ -1,8 +1,8 @@
 # Java-Projects
 Here are some projects that I had done:
 
-# Big Projects
+## Big Projects
 
 
-# Simple Projects
+## Simple Projects
 
